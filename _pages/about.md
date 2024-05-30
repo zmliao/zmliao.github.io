@@ -29,3 +29,4 @@ I am currently learning [CUDA](https://www.nvidia.cn/geforce/technologies/cuda/)
 + 🎵 I like classical music and electronic music.
 + ❓ I love going through experiences I've never had before.
 + ❗ I enjoy a life full of surprises and unexpected moments.
++ 🧙‍ I usually use the name 'Mage Apprentice' online, but this does not mean I am interested in occultism.
