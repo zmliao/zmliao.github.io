@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Zimu Liao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD Student"
+  location         : "Shanghai, China"
+  employer         : "Shanghai Artificial Intelligence Laboratory & Shanghai Jiaotong University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zimuliao6@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
