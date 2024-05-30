@@ -25,6 +25,6 @@ I am currently learning [CUDA](https://www.nvidia.cn/geforce/technologies/cuda/)
 + **2017-2020** High School Student, [Yali High School](http://www.yali.hn.cn/)
 
 # More About Me
-🏃‍ I like running.
-🎵 I like classical music and electronic music.
-❓ I enjoy a life full of surprises and unexpected moments.
++ 🏃‍ I like running.
++ 🎵 I like classical music and electronic music.
++ ❓ I enjoy a life full of surprises and unexpected moments.
