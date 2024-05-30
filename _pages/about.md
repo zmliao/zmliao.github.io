@@ -14,7 +14,7 @@ I am currently learning [CUDA](https://www.nvidia.cn/geforce/technologies/cuda/)
 
 # Awards
 + 🥈Silver Medal in the 48th [ICPC](https://icpc.global/) Asian Regional(Xi'an)
-+ 🥈Silver Medal in the 9th [CCPC](**https://ccpc.io/)**(Harbin)
++ 🥈Silver Medal in the 9th [CCPC](**https://ccpc.io/)(Harbin)
 + 🥈Silver Medal in the 47th ICPC Asian Regional(Xi'an)
 + First Prize(Senior Group) in [NOIp](https://www.noi.cn/gynoi/jj/ 2018
 + First Prize(Senior Group) in NOIp 2017
