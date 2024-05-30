@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zimu Liao -- Homepage"
+title: "Zimu Liao -Homepage"
 author_profile: true
 redirect_from:  
   - /about/
