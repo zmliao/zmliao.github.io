@@ -11,6 +11,6 @@ I am a senior student from [UESTC](https://www.uestc.edu.cn/), majoring in Compu
 My research topics lies in **HPC for AI**. I am also interested in Computer Graphics and 3D Vision. 
 
 # Awards
-+ Silver medal in the 48th ICPC Asian Regional (Xi'an)
-+ Silver medal in the 9th China Collegiate Programming Contest(CCPC) (Harbin)
-+ Silver medal in the 47th ICPC Asian Regional (Xi'an)
++ 🥈Silver medal in the 48th ICPC Asian Regional (Xi'an)
++ 🥈Silver medal in the 9th China Collegiate Programming Contest(CCPC) (Harbin)
++ 🥈Silver medal in the 47th ICPC Asian Regional (Xi'an)
