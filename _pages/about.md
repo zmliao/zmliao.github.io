@@ -10,11 +10,21 @@ I am a senior student from [UESTC](https://www.uestc.edu.cn/), majoring in Compu
 
 My research topics lies in **HPC for AI**. I am also interested in Computer Graphics and 3D Vision. 
 
-I am currently learning [CUDA](https://www.nvidia.cn/geforce/technologies/cuda/), [Triton](https://openai.com/index/triton/), [Apache TVM](https://github.com/apache/tvm) and [Blender](https://www.blender.org/).
+I am currently learning [CUDA](https://www.nvidia.cn/geforce/technologies/cuda/), [Triton](https://openai.com/index/triton/) and [Apache TVM](https://github.com/apache/tvm).
 
 # Awards
-+ 🥈Silver medal in the 48th ICPC Asian Regional (Xi'an)
-+ 🥈Silver medal in the 9th China Collegiate Programming Contest(CCPC) (Harbin)
-+ 🥈Silver medal in the 47th ICPC Asian Regional (Xi'an)
++ 🥈Silver Medal in the 48th [ICPC](https://icpc.global/) Asian Regional(Xi'an)
++ 🥈Silver Medal in the 9th [CCPC](**https://ccpc.io/)**(Harbin)
++ 🥈Silver Medal in the 47th ICPC Asian Regional(Xi'an)
++ First Prize(Senior Group) in [NOIp](https://www.noi.cn/gynoi/jj/ 2018
++ First Prize(Senior Group) in NOIp 2017
 
+# Experience
++ **2023-2024** Research Intern, Shang AI Lab
++ **2020-2024** Undergraduate Student, [SCSE](https://www.scse.uestc.edu.cn/) and [Yingcai Honor College](https://www.yingcai.uestc.edu.cn/), UESTC
++ **2017-2020** High School Student, [Yali High School](http://www.yali.hn.cn/)
 
+# More About Me
+🏃‍ I like running.
+🎵 I like classical music and electronic music.
+❓ I enjoy a life full of surprises and unexpected moments.
