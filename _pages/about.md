@@ -27,4 +27,5 @@ I am currently learning [CUDA](https://www.nvidia.cn/geforce/technologies/cuda/)
 # More About Me
 + 🏃‍ I like running.
 + 🎵 I like classical music and electronic music.
-+ ❓ I enjoy a life full of surprises and unexpected moments.
++ ❓ I love going through experiences I've never had before.
++ ❗ I enjoy a life full of surprises and unexpected moments.
