@@ -20,8 +20,8 @@ I am currently learning [CUDA](https://www.nvidia.cn/geforce/technologies/cuda/)
 + First Prize(Senior Group) in NOIp 2017
 
 # Experience
-+ **2023-2024** Research Intern, Shang AI Lab
-+ **2020-2024** Undergraduate Student, [SCSE](https://www.scse.uestc.edu.cn/) and [Yingcai Honor College](https://www.yingcai.uestc.edu.cn/), UESTC
++ **2023-present** Research Intern, Shang AI Lab
++ **2020-present** Undergraduate Student, [SCSE](https://www.scse.uestc.edu.cn/) and [Yingcai Honor College](https://www.yingcai.uestc.edu.cn/), UESTC
 + **2017-2020** High School Student, [Yali High School](http://www.yali.hn.cn/)
 
 # More About Me
