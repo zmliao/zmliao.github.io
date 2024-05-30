@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zimu Liao -Homepage"
+title: ""
 author_profile: true
 redirect_from:  
   - /about/
@@ -10,7 +10,11 @@ I am a senior student from [UESTC](https://www.uestc.edu.cn/), majoring in Compu
 
 My research topics lies in **HPC for AI**. I am also interested in Computer Graphics and 3D Vision. 
 
+I am currently learning [CUDA](https://www.nvidia.cn/geforce/technologies/cuda/, [Triton](https://openai.com/index/triton/), [Apache TVM](https://github.com/apache/tvm) and [Blender](https://www.blender.org/)
+
 # Awards
 + 🥈Silver medal in the 48th ICPC Asian Regional (Xi'an)
 + 🥈Silver medal in the 9th China Collegiate Programming Contest(CCPC) (Harbin)
 + 🥈Silver medal in the 47th ICPC Asian Regional (Xi'an)
+
+
