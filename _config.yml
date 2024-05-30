@@ -43,8 +43,8 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/zmliao"
-  kaggle           : # Username  
+  github           : "zmliao"
+  kaggle           : "zimuliao6"
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
@@ -71,7 +71,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # URL
+  zhihu            : https://www.zhihu.com/people/fuking-84
 
 
 # Site Settings
