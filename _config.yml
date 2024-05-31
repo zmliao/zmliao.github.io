@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Zimu Liao"
-  pronouns         :  "He/Him" 
+  pronouns         :  # "He/Him" 
   bio              : "zimuliao6@gmail.com"
   location         : "Shanghai, China"
   employer         : "Shanghai AI Lab"
