@@ -13,9 +13,9 @@ My research topic lies in **AI System, especially in HPC for AI**. I am also int
 I am currently learning GPU programming, such as [CUDA](https://www.nvidia.cn/geforce/technologies/cuda/), [Triton](https://openai.com/index/triton/), etc., and deep learning compiler, such as [Apache TVM](https://github.com/apache/tvm).
 
 # 🏆 Awards
-+ 🥈 Silver Medal in the 48th [ICPC](https://icpc.global/) Asian Regional(Xi'an)
-+ 🥈 Silver Medal in the 9th [CCPC](https://ccpc.io/)(Harbin)
-+ 🥈 Silver Medal in the 47th ICPC Asian Regional(Xi'an)
++ 🥈 Silver Medalist in the 48th [ICPC](https://icpc.global/) Asian Regional(Xi'an)
++ 🥈 Silver Medalist in the 9th [CCPC](https://ccpc.io/)(Harbin)
++ 🥈 Silver Medalist in the 47th ICPC Asian Regional(Xi'an)
 + First Prize(Senior Group) in [NOIp](https://www.noi.cn/gynoi/jj/) 2018
 + First Prize(Senior Group) in NOIp 2017
 
