@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a senior student from [UESTC](https://www.uestc.edu.cn/), majoring in Computer Science and Technology. Currently I am a research intern in [Shanghai AI Lab](https://www.shlab.org.cn/). I will join the joint program between [SJTU](https://www.sjtu.edu.cn/) and Shanghai AI Lab as PhD student in the fall of 2024.
+I am a senior student from [UESTC](https://www.uestc.edu.cn/), majoring in Computer Science and Technology. Currently I am a research intern in [Shanghai AI Lab](https://www.shlab.org.cn/). I will join the joint program from [SJTU](https://www.sjtu.edu.cn/) and Shanghai AI Lab as PhD student in the fall of 2024.
 
 My research topic lies in **AI System, especially in HPC for AI**. I am also interested in Computer Graphics and 3D Vision. 
 
