@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a senior student from [UESTC](https://www.uestc.edu.cn/), majoring in Computer Science and Technology. Currently I am a research intern in [Shanghai AI Lab](https://www.shlab.org.cn/). I will join the joint PhD program between [SJTU](https://www.sjtu.edu.cn/) and Shanghai AI Lab in the fall of 2024.
+I am a senior student from [UESTC](https://www.uestc.edu.cn/), majoring in Computer Science and Technology. Currently I am a research intern in [Shanghai AI Lab](https://www.shlab.org.cn/). I will join the joint program between [SJTU](https://www.sjtu.edu.cn/) and Shanghai AI Lab as PhD student in the fall of 2024.
 
 My research topic lies in **HPC for AI**. I am also interested in Computer Graphics and 3D Vision. 
 
-I am currently learning [CUDA](https://www.nvidia.cn/geforce/technologies/cuda/), [Triton](https://openai.com/index/triton/) and [Apache TVM](https://github.com/apache/tvm).
+I am currently learning GPU programming, such as [CUDA](https://www.nvidia.cn/geforce/technologies/cuda/), [Triton](https://openai.com/index/triton/), etc., and deep learning compiler, such as [Apache TVM](https://github.com/apache/tvm).
 
 # Awards
 + 🥈 Silver Medal in the 48th [ICPC](https://icpc.global/) Asian Regional(Xi'an)
