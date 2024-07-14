@@ -11,7 +11,7 @@ I am a research intern in [Shanghai AI Lab](https://www.shlab.org.cn/). I will j
 My research topic lies in **High Performance Computing**. I am also interested in Computer Graphics and 3D Vision. 
 
 <!--I am currently learning GPU programming, such as [CUDA](https://www.nvidia.cn/geforce/technologies/cuda/), [Triton](https://openai.com/index/triton/), etc., and deep learning compiler, such as [Apache TVM](https://github.com/apache/tvm).-->
-I am currently learning GPU programming and compiler for AI.
+I am currently learning GPU Programming and AI Compiler.
 
 # 🏆 Awards
 + 🥈 Silver Medalist in the 48th [ICPC](https://icpc.global/) Asian Regional(Xi'an)
