@@ -21,7 +21,7 @@ I am currently learning GPU Programming and AI Compiler.
 + First Prize(Senior Group) in NOIp 2017
 
 # 💻 Experience
-+ **2024-present** Phd Student, SJTU
++ **2024-present** Ph.D Student, SJTU
 + **2023-present** Research Intern, Shanghai AI Lab
 + **2020-2024** Undergraduate Student, [SCSE](https://www.scse.uestc.edu.cn/) and [Yingcai Honor College](https://www.yingcai.uestc.edu.cn/), [UESTC](https://www.uestc.edu.cn/)
 + **2017-2020** High School Student, [Yali High School](http://www.yali.hn.cn/)
