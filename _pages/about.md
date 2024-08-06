@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a research intern in [Shanghai AI Lab](https://www.shlab.org.cn/). I will join the joint program from [SJTU](https://www.sjtu.edu.cn/) and Shanghai AI Lab as PhD student in the fall of 2024.
+I am a Ph.D student from [SJTU](https://www.sjtu.edu.cn/), and now I am a research intern in [Shanghai AI Lab](https://www.shlab.org.cn/).
 
 My research topic lies in **High Performance Computing**. I am also interested in Computer Graphics and 3D Vision. 
 
@@ -21,6 +21,7 @@ I am currently learning GPU Programming and AI Compiler.
 + First Prize(Senior Group) in NOIp 2017
 
 # 💻 Experience
++ **2024-present** Phd Student, SJTU
 + **2023-present** Research Intern, Shanghai AI Lab
 + **2020-2024** Undergraduate Student, [SCSE](https://www.scse.uestc.edu.cn/) and [Yingcai Honor College](https://www.yingcai.uestc.edu.cn/), [UESTC](https://www.uestc.edu.cn/)
 + **2017-2020** High School Student, [Yali High School](http://www.yali.hn.cn/)
