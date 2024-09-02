@@ -8,10 +8,7 @@ redirect_from:
 ---
 I am a Ph.D student from [SJTU](https://www.sjtu.edu.cn/), and now I am a research intern in [Shanghai AI Lab](https://www.shlab.org.cn/).
 
-My research topic lies in **High Performance Computing**. I am also interested in Computer Graphics and 3D Vision. 
-
-<!--I am currently learning GPU programming, such as [CUDA](https://www.nvidia.cn/geforce/technologies/cuda/), [Triton](https://openai.com/index/triton/), etc., and deep learning compiler, such as [Apache TVM](https://github.com/apache/tvm).-->
-I am currently learning GPU Programming and AI Compiler.
+My research topic lies in High Performance Computing. I am also interested in Computer Graphics and 3D Vision. 
 
 # 🏆 Awards
 + 🥈 Silver Medalist in the 48th [ICPC](https://icpc.global/) Asian Regional(Xi'an)
@@ -23,14 +20,7 @@ I am currently learning GPU Programming and AI Compiler.
 # 💻 Experience
 + **2024-present** Ph.D Student, SJTU
 + **2023-present** Research Intern, Shanghai AI Lab
-+ **2020-2024** Undergraduate Student, [SCSE](https://www.scse.uestc.edu.cn/) and [Yingcai Honor College](https://www.yingcai.uestc.edu.cn/), [UESTC](https://www.uestc.edu.cn/)
-+ **2017-2020** High School Student, [Yali High School](http://www.yali.hn.cn/)
++ **2020-2024** Undergraduate Student, [SCSE](https://www.scse.uestc.edu.cn/), [UESTC](https://www.uestc.edu.cn/)
 
 
-<!--😀 More About Me
-+ 🏃‍ I like running. 
-+ 🎵 I like classical music and electronic music.
-+ ❓ I love going through experiences I've never had before.
-+ ❗ I enjoy a life full of surprises and unexpected moments.
-+ 🧙‍ I usually use the name 'Mage Apprentice' online, but this does not mean I am interested in magic or occultism.-->
 
