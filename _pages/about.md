@@ -20,7 +20,7 @@ My research topic lies in High Performance Computing. I am also interested in Co
 + First Prize(Senior Group) in NOIp 2017
 
 # 💻 Experience
-+ **2024-present** Ph.D Student, SJTU
++ **2024-present** Ph.D Student, [SEIEE](https://www.seiee.sjtu.edu.cn), SJTU
 + **2023-present** Research Intern, Shanghai AI Lab
 + **2022-2024** Undergraduate Student, [SCSE](https://www.scse.uestc.edu.cn/), [UESTC](https://www.uestc.edu.cn/)
 + **2021-2022** Undergradutae Student, [Yingcai Honor College](https://www.yingcai.uestc.edu.cn), UESTC
