@@ -23,6 +23,7 @@ My research topic lies in High Performance Computing. I am also interested in Co
 + **2024-present** Ph.D Student, SJTU
 + **2023-present** Research Intern, Shanghai AI Lab
 + **2022-2024** Undergraduate Student, [SCSE](https://www.scse.uestc.edu.cn/), [UESTC](https://www.uestc.edu.cn/)
++ **2021-2022** Undergradutae Student, [Yingcai Honor College](https://www.yingcai.uestc.edu.cn), UESTC
 + **2020-2021** Undergraduate Student, [ESE](https://www.ese.uestc.edu.cn), UESTC
 
 
