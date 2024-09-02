@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D student from [SJTU](https://www.sjtu.edu.cn/), and now I am a research intern in [Shanghai AI Lab](https://www.shlab.org.cn/).
+I am a Ph.D student from [SJTU](https://www.sjtu.edu.cn/), and now I am a research intern at [Shanghai AI Lab](https://www.shlab.org.cn/).
 
 My research topic lies in High Performance Computing. I am also interested in Computer Graphics and 3D Vision. 
 
