@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a Ph.D student in joint program of [SJTU](https://www.sjtu.edu.cn/) and [Shanghai AI Lab](https://www.shlab.org.cn/).
 
-My research topic lies in High Performance Computing. I am also interested in Computer Graphics and 3D Vision. 
+My research topic lies in AI Infra. I am also interested in Computer Graphics and 3D Vision. 
 
 # 🏆 Awards
 + 🥈 Silver Medalist in the 48th [ICPC](https://icpc.global/) Asian Regional(Xi'an)
