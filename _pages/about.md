@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a Ph.D student in joint program of [SJTU](https://www.sjtu.edu.cn/) and [Shanghai AI Lab](https://www.shlab.org.cn/).
 
-My research topic lies in HPC for AI. I am also interested in Rendering and Real2Sim.
+My research topic lies in HPC. I am also interested in Computer Graphics.
 
 # 🏆 Awards
 + 🥈 Silver Medalist in the 48th [ICPC](https://icpc.global/) Asian Regional(Xi'an)
