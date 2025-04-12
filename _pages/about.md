@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, I am Zimu Liao. Now I am a PhD student mentered by [Dr. Rong Fu](https://scholar.google.com/citations?user=kz2T3P0AAAAJ&hl=zh-TW&oi=sra) in joint program of [SJTU](https://www.sjtu.edu.cn/) and [Shanghai AI Lab](https://www.shlab.org.cn/). Currently, my research topic mainly lies in **HPC** and **AI Infra** applied in computer graphics, embodied intelligence and 3D Vision, with a particular focus on **GPU acceleration** and other parallelism strategies for **differential** rendering, reconstructing and simulation.
+Hello, I am Zimu Liao. Now I am a PhD student mentored by [Dr. Rong Fu](https://scholar.google.com/citations?user=kz2T3P0AAAAJ&hl=zh-TW&oi=sra) in joint program of [SJTU](https://www.sjtu.edu.cn/) and [Shanghai AI Lab](https://www.shlab.org.cn/). Currently, my research topic mainly lies in **HPC** and **AI Infra** applied in computer graphics, embodied intelligence and 3D Vision, with a particular focus on **GPU acceleration** and other parallelism strategies for **differential** rendering, reconstructing and simulation.
 
 
 # Publications:
