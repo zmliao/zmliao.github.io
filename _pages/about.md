@@ -15,7 +15,7 @@ I was a member of the UESTC_404 team, participating in the ICPC and CCPC competi
 
 
 
-📑# Publications:
+# 📑 Publications:
 + **([CVPR 2025](https://cvpr.thecvf.com))** [FlashGS: Efficient 3D Gaussian Splatting for Large-scale and High-resolution Rendering](https://maxwellf1.github.io/flashgs_page/)
 
   Guofeng Feng, Siyan Chen, Rong Fu, **Zimu Liao**, Yi Wang, Tao Liu, Boni Hu, Linning Xu, PeiZhilin, Hengjie Li, Xiuhong Li, Ninghui Sun, Xingcheng Zhang, Bo Dai
