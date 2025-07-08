@@ -33,6 +33,8 @@ I was a member of the UESTC_404 team, participating in the ICPC and CCPC competi
 + First Prize(Senior Group) in [NOIp](https://www.noi.cn/gynoi/jj/) 2018
 + First Prize(Senior Group) in NOIp 2017
 
+# 💁 Service
++ Reviewer as SIGGRAPH Asia 2025
 # 💻 Education & Experience
 + **2024-present** PhD Student, SJTU & Shanghai AI Lab
 + **2023-2024** Research Intern, Shanghai AI Lab
