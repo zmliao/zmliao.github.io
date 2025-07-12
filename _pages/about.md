@@ -34,7 +34,7 @@ I was a member of the UESTC_404 team, participating in the ICPC and CCPC competi
 + First Prize(Senior Group) in NOIp 2017
 
 # 💁 Service
-+ Reviewer in SIGGRAPH Asia 2025
++ Reviewer, SIGGRAPH Asia 2025
 
 # 💻 Education & Experience
 + **2024-present** PhD Student, SJTU & Shanghai AI Lab
