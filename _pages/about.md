@@ -16,7 +16,7 @@ I was a member of the UESTC_404 team, participating in the ICPC and CCPC competi
 
 
 # 📑 Publications:
-+ (CONDITIONALLY ACCEPTED FROM **[SIGGRAPH ASIA 2025](https://asia.siggraph.org/2025/)**) [TC-GS: A Faster Gaussian Splatting Module Utilizing Tensor Cores](https://github.com/DeepLink-org/3DGSTensorCore/tree/main)
++ (CONDITIONALLY ACCEPTED FROM **[SIGGRAPH Asia 2025](https://asia.siggraph.org/2025/)**) [TC-GS: A Faster Gaussian Splatting Module Utilizing Tensor Cores](https://github.com/DeepLink-org/3DGSTensorCore/tree/main)
 
   **Zimu Liao**, Jifeng Ding, Siwei Cui, Ruixuan Gong, Boni Hu, Yi Wang, Hengjie Li, Hui Wang, Xingcheng Zhang, Rong Fu
 
